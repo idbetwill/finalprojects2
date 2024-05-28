@@ -1,9 +1,4 @@
-﻿// Willy Betancur Idarraga
-// Group 103
-// Ingeniería de Sistemas
-// Código Fuente: Autoría Propia
-
-namespace DistribucionQuimicos
+﻿namespace DistribucionQuimicos
 {
     class Program
     {
