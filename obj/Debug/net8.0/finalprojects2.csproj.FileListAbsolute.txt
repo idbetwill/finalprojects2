@@ -1,0 +1,14 @@
+C:\Users\Willy\src\willbetancur\finalprojects2\bin\Debug\net8.0\finalprojects2.exe
+C:\Users\Willy\src\willbetancur\finalprojects2\bin\Debug\net8.0\finalprojects2.deps.json
+C:\Users\Willy\src\willbetancur\finalprojects2\bin\Debug\net8.0\finalprojects2.runtimeconfig.json
+C:\Users\Willy\src\willbetancur\finalprojects2\bin\Debug\net8.0\finalprojects2.dll
+C:\Users\Willy\src\willbetancur\finalprojects2\bin\Debug\net8.0\finalprojects2.pdb
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.AssemblyInfoInputs.cache
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.AssemblyInfo.cs
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.csproj.CoreCompileInputs.cache
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.dll
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\refint\finalprojects2.dll
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.pdb
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\finalprojects2.genruntimeconfig.cache
+C:\Users\Willy\src\willbetancur\finalprojects2\obj\Debug\net8.0\ref\finalprojects2.dll
