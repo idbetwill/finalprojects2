@@ -32,9 +32,8 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
    ```bash
    git clone https://github.com/willbetancur/finalprojects2.git
-   Navega al directorio del proyecto:
    ```
-
+Navega al directorio del proyecto:
 bash
 Copy code
 cd finalprojects2
