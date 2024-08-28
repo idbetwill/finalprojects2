@@ -27,26 +27,15 @@ Para ejecutar este proyecto, necesitas tener instalado:
 - .NET SDK 8.0 o superior
 
 ## Cómo Ejecutar
-
-1. Clona este repositorio en tu máquina local:
-
-   ```bash
-   git clone https://github.com/willbetancur/finalprojects2.git
-   ```
-Navega al directorio del proyecto:
-bash
-Copy code
-cd finalprojects2
-Construye el proyecto:
-
-bash
-Copy code
+Clona el repositorio local:
+```bash
+git clone https://github.com/willbetancur/finalprojects2.git
+```
+Construye y ejecuta:
+```bash
 dotnet build
-Ejecuta el proyecto:
-
-bash
-Copy code
 dotnet run
+```
 Descripción del Código
 El programa está estructurado en varias funciones para modularizar y simplificar la lógica:
 
